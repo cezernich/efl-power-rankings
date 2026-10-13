@@ -4,3 +4,5 @@
 .key-metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;padding:18px 0 20px;margin:18px 0 12px;border-top:1px solid #d8d3c9;border-bottom:1px solid #d8d3c9}.key-metrics strong{display:block;font:normal 29px Georgia,serif;color:#852c28}.key-metrics span{display:block;margin-top:6px;font:11px/1.4 Arial,sans-serif;color:#696760}@media(max-width:480px){.key-metrics{gap:12px}.key-metrics strong{font-size:25px}}
 
 .manager-name{font:12px/1.4 Arial,sans-serif;color:#77736b;margin:-3px 0 10px}
+
+.team-mvp{font:12px/1.5 Arial,sans-serif;margin-top:10px;color:#696760}.team-mvp strong{color:#852c28;font-weight:600}
